@@ -1,1 +1,3 @@
 # PROJECT_BI_WITH_POWERBI_SHIPMENTS_ANALYSIS
+**DESCRIPTION**The Power BI dashboard offers a comprehensive view of our shipment operations, providing insights into sales, customers, orders, delivery status, and key performance indicators. By visualizing data through interactive charts and graphs, the dashboard enables us to identify trends, analyze customer behavior, optimize order fulfillment processes, and ensure timely delivery. This data-driven approach empowers decision-makers to make informed choices and drive operational efficiency.
+https://drive.google.com/file/d/1AqrYm6LM8XgcH2C1A6aj4LzHUc0HE5iH/view?usp=sharing
